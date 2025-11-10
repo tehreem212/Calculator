@@ -1,3 +1,3 @@
 # Calculator
-This is a calculator made with the help of JavaScript and CSS.
-I made this by myself, and this project is licensed under MIT license. 
+I made this calculator with the help of HTML, CSS, and JS. 
+
